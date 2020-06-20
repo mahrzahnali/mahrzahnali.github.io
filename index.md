@@ -11,3 +11,6 @@ Karl der Große ist ein Hamster, der in einem Regal lebt. Er kann über Schräge
 * schläft viel
 * beißt gern
 * mag Obst
+
+Wenn er reden könnte, würde er sagen (und seine Futterkörner meinen):
+> Take care that none of them escapes.
