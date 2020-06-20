@@ -14,3 +14,5 @@ Karl der Große ist ein Hamster, der in einem Regal lebt. Er kann über Schräge
 
 Wenn er reden könnte, würde er sagen (und seine Futterkörner meinen):
 > Take care that none of them escapes.
+
+<img src="https://www.hamster-haltung.de/wp-content/uploads/2019/02/dsungarischer-zwerghamster-500x250.jpg"/>
